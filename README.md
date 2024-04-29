@@ -35,12 +35,9 @@ Technologies Used
 
 Configuration
 
-	•	MongoDB: Update the connection details in the Python script (scrape_news.py) to connect to your MongoDB database.
-	•	Email: Update the email configuration details in the JavaScript file (send_newsletter.js) with your email server information and credentials.
+	•	MongoDB: Update the connection details in the Python script to connect to your MongoDB database.
+	•	Email: Update the email configuration details in the JavaScript file with your email server information and credentials.
 
-License
-
-MIT License
 
 Author
 
