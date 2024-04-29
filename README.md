@@ -11,9 +11,7 @@ Features
 Installation and Setup
 
 	1.	Clone this repository to your local machine.
-	2.	Install the required Python packages:
-
-pip install -r requirements.txt
+	2.	Install the required Python packages.
 
 	3.	Make sure you have MongoDB installed and running on your machine. Update the MongoDB connection details in the Python script.
 	4.	Set up a MongoDB database and collection to store the scraped news data.
@@ -23,11 +21,9 @@ Usage
 
 	1.	Run the Python script to scrape data for the top 10 news of the day and store it in MongoDB.
 
-python scrape_news.py
 
 	2.	Run the JavaScript script to send out the daily newsletter.
 
-node send_newsletter.js
 
 	3.	The newsletter will be sent out daily to the configured email addresses.
 
